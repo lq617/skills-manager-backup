@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "060820ef-86be-4f1a-b5fa-ad6f0e94a41c",
+  "path": "nature-data",
+  "path_key": "nature-data",
+  "enabled": true,
+  "tags": [
+    "nature"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Yuan1z0825/nature-skills.git",
+    "subpath": "skills\\nature-data",
+    "branch": null
+  }
+}

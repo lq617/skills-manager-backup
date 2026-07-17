@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "443fab4c-ebd9-40f4-be5e-2b723b268865",
+  "path": "learn-anything-skill",
+  "path_key": "learn-anything-skill",
+  "enabled": true,
+  "tags": [
+    "学习"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "read2017/learn-anything-with-ai/learn-anything-skill",
+    "subpath": "skills\\learn-anything-skill",
+    "branch": null
+  }
+}

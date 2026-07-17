@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "e10b6dfc-ec93-4358-b912-3a9f092cabb7",
+  "name": "写论文",
+  "description": null,
+  "icon": "notebook-pen",
+  "sort_order": 999
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "d677472e-f465-4fba-878b-8afb6304a5ce",
+  "path": "pdf-converter",
+  "path_key": "pdf-converter",
+  "enabled": true,
+  "tags": [
+    "office"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "tanis90/pdf-converter-mineru/pdf-converter",
+    "subpath": null,
+    "branch": null
+  }
+}

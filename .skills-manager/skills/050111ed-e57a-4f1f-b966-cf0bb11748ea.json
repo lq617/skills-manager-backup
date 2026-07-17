@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "050111ed-e57a-4f1f-b966-cf0bb11748ea",
+  "path": "ui-styling-2",
+  "path_key": "ui-styling-2",
+  "enabled": true,
+  "tags": [
+    "前端"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+    "subpath": "cli\\assets\\skills\\ui-styling",
+    "branch": null
+  }
+}

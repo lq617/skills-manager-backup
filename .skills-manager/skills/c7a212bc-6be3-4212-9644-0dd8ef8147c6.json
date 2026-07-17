@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "c7a212bc-6be3-4212-9644-0dd8ef8147c6",
+  "path": "brand",
+  "path_key": "brand",
+  "enabled": true,
+  "tags": [
+    "前端"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+    "subpath": "cli\\assets\\skills\\brand",
+    "branch": null
+  }
+}

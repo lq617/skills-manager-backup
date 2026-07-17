@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "6233016e-f8da-4514-a2aa-ff5946333a22",
+  "path": "aut-sci-ppt",
+  "path_key": "aut-sci-ppt",
+  "enabled": true,
+  "tags": [
+    "科研ppt"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/ShZhao27208/Aut_Sci_ppt.git",
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "3778b3b4-6676-49ef-92e0-a36083085056",
+  "path": "nature-response",
+  "path_key": "nature-response",
+  "enabled": true,
+  "tags": [
+    "nature"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Yuan1z0825/nature-skills.git",
+    "subpath": "skills\\nature-response",
+    "branch": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "8dfaa845-860e-4008-8f40-33a7be497751",
+  "path": "banner-design",
+  "path_key": "banner-design",
+  "enabled": true,
+  "tags": [
+    "前端"
+  ],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+    "subpath": "cli\\assets\\skills\\banner-design",
+    "branch": null
+  }
+}
